@@ -1,6 +1,6 @@
-- 👋 @rasclatt-dot-com (currently public) github for developing, sharing and collaborating on DIY IOT specific projects
-- 👀 ESP32, Arduino, M0, RPi & OpenHAB
-- 💞️ Once i havew a some working code - happy to collaborate
+- 👋 @rasclatt-dot-com github for developing, sharing and collaborating on DIY IOT specific projects
+- 👀 ESP32, Arduino, M0, RPi & Home Assistant
+- 💞️ Once i have a some working code - happy to collaborate
 - 📫 <Contact details placeholder>
 
 <!---
